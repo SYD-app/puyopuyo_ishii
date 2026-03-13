@@ -14,7 +14,7 @@ PP.Constants = {
     // Colors (positive integers)
     COLOR_RED: 1,
     COLOR_BLUE: 2,
-    COLOR_PURPLE: 3,
+    COLOR_GREEN: 3,
     COLOR_YELLOW: 4,
     NUM_COLORS: 4,
 
@@ -22,21 +22,21 @@ PP.Constants = {
     COLOR_MAP: {
         1: '#FF4444', // Red
         2: '#4488FF', // Blue
-        3: '#AA44FF', // Purple
+        3: '#44CC44', // Green
         4: '#FFCC00', // Yellow
     },
 
     COLOR_DARK_MAP: {
         1: '#CC2222',
         2: '#2266CC',
-        3: '#7722CC',
+        3: '#229922',
         4: '#CC9900',
     },
 
     COLOR_NAMES: {
         1: 'Red',
         2: 'Blue',
-        3: 'Purple',
+        3: 'Green',
         4: 'Yellow',
     },
 
